@@ -19,7 +19,7 @@ deve escrever o número do aluno, suas notas, a média dos exercícios,
 a média de aproveitamento, o conceito correspondente e a
 mensagem 'Aprovado' se o conceito for A, B ou C, e 'Reprovado' se o
 conceito for D ou E.
-     - #### Média de Aproveitamento Conceito
+   - #### Média de Aproveitamento Conceito
          - >= 90 A
          - >= 75 e < 90 B
          - >= 60 e < 75 C
